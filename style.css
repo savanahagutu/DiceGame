@@ -15,16 +15,16 @@ body{
 h1{
     margin: 30px;
     font-family:'Montserrat', sans-serif ;
-    text-shadow: 3px 0 #a9acaf;
+    text-shadow: 1.8px 0 #a9acaf;
     font-size: 2.3rem;
-    color: #4ecca3;
+    color: #6466ec;
     text-align: center;
 }
 h2{
     font-family: 'Poppins', sans-serif;
     font-size: 40px;
-    color: red;
-    text-shadow: 3px 0 #6a6b6d;
+    color: rgb(245, 24, 190);
+    text-shadow: 2.2px 0 #a7a1a1;
 
 }
 
@@ -37,7 +37,8 @@ p{
 
 .container{
     width: 400px;
-    padding: 50px;
+    padding: 30px;
+    margin-top: 50px;
     position: absolute;
     transform: translate(-50%,-50%);
     top: 50%;
@@ -64,7 +65,7 @@ p{
 }
 
 .btn1{
-    background: #c310e7;
+    background: #0918e7;
     color: #ffff;
     font-size: 17px;
     padding:5px 20px 5px 20px ;
@@ -73,7 +74,7 @@ p{
 }
 
 .btn2{
-    background: #08e225;
+    background: #2ce208;
     color: #ffffff;
     font-size: 17px;
     padding:5px 20px 5px 20px ;
