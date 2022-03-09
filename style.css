@@ -20,6 +20,13 @@ h1{
     color: #4ecca3;
     text-align: center;
 }
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    color: red;
+    text-shadow: 3px 0 #6a6b6d;
+
+}
 
 p{
     font-size: 2rem;
