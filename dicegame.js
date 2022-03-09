@@ -40,6 +40,21 @@ function roll(){
 
         document.querySelector("#total").innerHTML = "Your roll is " + ((dieOneValue + 1) + (dieTwoValue + 1) );
 
+        if (dieOneValue === dieTwoValue) {
+            document.querySelector("h2").innerHTML = "Draw!";
+        }
+
+        else if (dieOneValue < dieTwoValue) {
+            document.querySelector("h2").innerHTML
+                            = (player2 + " WINS!");
+        }
+
+        else {
+            document.querySelector("h2").innerHTML
+                            = (player1 + " WINS!");
+        }
+
+
     },
     1000
     );
