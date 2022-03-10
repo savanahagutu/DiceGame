@@ -8,12 +8,12 @@ This game is played with 2 users, each user can enter his/her name at a time and
 # Screenshot
 ![DiceGame-screenshot](https://user-images.githubusercontent.com/87978808/157603329-0c1c1112-ceaa-4b64-a943-292e20ab1c30.png)
 
-# Live Page
+# Sample Video
 
 https://user-images.githubusercontent.com/87978808/157603391-6893e94b-e48a-4725-b8fa-c2cb83ae1d02.mp4
 
 # Links
-Github link : https://github.com/savanahagutu/DiceGame.git
+Github link : https://savanahagutu.github.io/DiceGame/
 
 # Language used
   * HTML5 
